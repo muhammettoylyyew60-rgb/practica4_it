@@ -1,0 +1,8 @@
+position,accounting.edit,ad.admin,backup.run,crm.edit,crm.read,hr.edit,hr.read,mail.use,payment.approve,payment.create,portal.read,report.all.read,report.finance.read,server.login
+director,,,,,,,+,+,+,,+,+,,
+chief_accountant,,,,,,,,+,+,,+,,+,
+accountant,+,,,,,,,+,,+,+,,+,
+hr_specialist,,,,,,+,+,+,,,+,,,
+manager,,,,+,+,,,+,,,+,,,
+it_admin,,+,+,,,,,+,,,+,,,+
+specialist,,,,,,,,+,,,+,,,
